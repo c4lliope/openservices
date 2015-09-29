@@ -11,6 +11,7 @@ data = importer.as_json
 dir = "organizations"
 
 data[:organizations].each do |org|
+  org[:__meta__] = { version: "0.0.1" }
   filename = "#{dir}/#{org[:name].parameterize[0..100]}"
   extension = ".yml"
 

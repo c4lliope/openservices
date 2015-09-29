@@ -1,0 +1,29 @@
+---
+:accessibility: 
+:address: 
+:contact_name: Darlene Fernandez-Ash, Rental Assistance Coordinator
+:description: Provide back rent or security deposit to low income San Francisco residents
+  meeting criteria.
+:eligible_population: 
+:email: 
+:faith_based: No.
+:fax: "(415) 557-6033"
+:fees: None.
+:languages: []
+:miscellaneous: |-
+  Hours: Monday – Friday, 9:00am to 5:00pm
+  Mailing Address: P.O. Box 7988, San Francisco, CA 94120, worker #ZB34
+  Notes: After verifying need and eligibility based on phone or mail inquiry, clients are referred to a community agency that can help them complete a rental assistance application. No drop-ins.
+  Primary Community Served: Low-income (80% AMI or below) families with minor children in their custody; adults (verifiably disabled, senior 55+), emancipated foster youth, veterans, victim of recent violence. Must be San Francisco resident.
+:name: San Francisco Human Services Agency   San Francisco Rental Assistance Program
+:phone: "(415) 557-6484"
+:services:
+- Assistance with back rent
+- security deposit
+- critical family needs
+- Referrals to other services as needed
+:url: www.sfhsa.org
+:what_to_bring: State-Issued ID; Social Security Card; Birth Certificates (for children);
+  Proof of Income; Lease Agreement; and other supporting documentation, as needed.
+:__meta__:
+  :version: 0.0.1

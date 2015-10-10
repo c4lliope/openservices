@@ -1,0 +1,98 @@
+prose:
+  metadata:
+    organizations:
+      - name: ':accessibility'
+        field:
+          element: text
+          type: text
+          label: 'Accessibility'
+      - name: ':address'
+        field:
+          element: text
+          type: text
+          label: 'Address'
+      - name: ':contact_name'
+        field:
+          element: text
+          type: text
+          label: 'Contact Name'
+      - name: ':description'
+        field:
+          element: textarea
+          label: 'Description'
+      - name: ':eligible_population'
+        field:
+          element: textarea
+          label: 'Eligible Population'
+      - name: ':email'
+        field:
+          element: text
+          type: text
+          label: 'Email'
+      - name: ':faith_based'
+        field:
+          element: checkbox
+          label: 'Faith Based'
+      - name: ':fax'
+        field:
+          element: text
+          type: text
+          label: 'Fax'
+      - name: ':fees'
+        field:
+          element: textarea
+          label: 'Fees'
+      - name: ':languages'
+        field:
+          element: multiselect
+          label: 'Languages'
+          options:
+            - name: English
+              value: english
+            - name: Spanish
+              value: spanish
+            - name: French
+              value: french
+            - name: German
+              value: german
+            - name: Russian
+              value: russian
+            - name: Mandarin
+              value: mandarin
+            - name: Cantonese
+              value: cantonese
+            - name: Japanese
+              value: japanese
+            - name: Hindi
+              value: hindi
+            - name: Swahili
+              value: swahili
+            - name: Tagalog
+              value: tagalog
+      - name: ':miscellaneous'
+        field:
+          element: textarea
+          label: 'Miscellaneous'
+      - name: ':name'
+        field:
+          element: text
+          type: text
+          label: 'Name'
+      - name: ':phone'
+        field:
+          element: text
+          type: text
+          label: 'Phone'
+      - name: ':services'
+        field:
+          element: textarea
+          label: 'Services'
+      - name: ':url'
+        field:
+          element: text
+          type: text
+          label: 'URL'
+      - name: ':what_to_bring'
+        field:
+          element: textarea
+          label: 'What To Bring'
